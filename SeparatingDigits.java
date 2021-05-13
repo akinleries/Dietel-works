@@ -1,4 +1,4 @@
-package roughLectures;
+package NewChapterFiveAndSix;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class SeparatingDigits {
         Scanner userInput = new Scanner(System.in);
         System.out.println("Enter Numbers");
         int number = userInput.nextInt();
-       String result = " ";
+        String result = " ";
 
 
 
